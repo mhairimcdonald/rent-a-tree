@@ -1,0 +1,71 @@
+body {
+	padding-top:65px;
+}
+
+
+.panel-title {display: inline;font-weight: bold;}
+.checkbox.pull-right { margin: 0; }
+.pl-ziro { padding-left: 20px; }
+
+.name{
+	width :100%; 
+	}
+	
+	
+.email{
+	width :100%; 
+	}
+
+.jumbotron {
+       background-color: #gray;
+}
+
+.home-page-tag {
+       color: black;
+       opacity: 0.8;
+       font-family: "Verdana";
+       font-style: oblique;
+}
+
+.howto {
+       background-color: white;
+       
+}
+
+footer {
+       background-image: url(C:/Users/ekaderku/Desktop/Project/zoom-tree.jpg);
+       
+       }
+.featured    {
+       color: black;
+       background: white;
+       opacity: 0.8;
+       font-family: "Verdana";
+       font-style: oblique;
+}
+
+.endtitle {
+       color: white;
+}
+
+.bottom-line{
+	border-top: 2px solid gray;
+}
+
+.footer{
+	height:100px;
+	padding: 50px;
+	background-color: #000;
+	color: #fff;
+	width: 100%;
+}
+
+.footer a{
+	text-decoration: none;
+	color: gray;
+}
+
+
+
+
+	
